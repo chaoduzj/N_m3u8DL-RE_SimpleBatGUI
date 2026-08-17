@@ -12,13 +12,10 @@
 ## 主程序
 [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
 > 本项目附带release版本，可能更新不及时，请到主程序项目查看最新内容。
-> 
->目录内文件版本
->
-> N_m3u8DL-RE：v0.5.1 20251029
 
 ## ffmpeg 混流合并文件需要
 ffmpeg下载:
+- https://www.gyan.dev/ffmpeg/builds/#release-builds
 - https://github.com/BtbN/FFmpeg-Builds/releases
 - https://github.com/shinchiro/mpv-winbuild-cmake
 - https://github.com/zhongfly/mpv-winbuild
